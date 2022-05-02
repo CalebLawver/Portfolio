@@ -181,8 +181,8 @@ header nav ul li a:hover {
     text-align: left;
 }
 
-.ph1 {
-    background-image: url(../images/placeholder.png);
+.National {
+    background-image: url(../images/Screenshot.PNG);
     background-size: cover;
     display: flex;
     align-items: flex-end;
