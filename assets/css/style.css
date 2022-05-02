@@ -181,8 +181,8 @@ header nav ul li a:hover {
     text-align: left;
 }
 
-.ph1 {
-    background-image: url(../images/placeholder.png);
+.National {
+    background-image: url(../images/Screenshot.PNG);
     background-size: cover;
     display: flex;
     align-items: flex-end;
@@ -266,6 +266,7 @@ header nav ul li a:hover {
   
     header nav ul li a {
       font-size: 15px;
+
     }
 
     .contacts h3 a {
@@ -315,5 +316,7 @@ header nav ul li a:hover {
         font-size: 30px;
         margin-top: 20px;
     }
+
+
   }
   
